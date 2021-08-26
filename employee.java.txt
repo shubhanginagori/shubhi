@@ -1,0 +1,8 @@
+Class Employee
+{
+public static void main(string args[])
+{
+public void method(){
+//code
+}
+}
